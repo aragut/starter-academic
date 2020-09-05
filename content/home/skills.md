@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Language Skills"
-subtitle = ""
+subtitle = "Common European Framework of Reference for Languages"
 
 # Showcase personal skills or business features.
 # 

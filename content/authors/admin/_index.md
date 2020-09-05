@@ -18,12 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Candidate at Edinburgh Law School. I am interested in taxonomy, comparative law, tort law, and private law broadly construed. 
+bio: I am a PhD Candidate at Edinburgh Law School. I am interested in taxonomy, comparative law, tort law, environmental law and private law broadly construed. 
 
 interests:
-- Comparative Private law
+- Comparative law
+- Private law theory
 - Tort law
 - Contract law
+- Environmental law
+- Taxonomy and Terminology
 
 education:
   courses:
