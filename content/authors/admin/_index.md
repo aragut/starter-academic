@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Arantxa Gutiérrez Raymondova
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Law
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Edinburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD Candidate at Edinburgh Law School. I am interested in taxonomy, comparative law, tort law, and private law broadly construed. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Comparative Private law
+- Tort law
+- Contract law
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Law 
+    institution: The University of Edinburgh 
+    year: (2016-2020)
+  - course: LLM in Comparative and European Private Law
+    institution: The University of Edinburgh
+    year: (2015-2016)
+  - course: Licentiate degree in Legal and Social Sciences
+    institution: University of Chile
+    year: (2008-2014)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:a.gutierrez@ed.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ARaymondova
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=f6Wfi-EAAAAJ&hl=es#
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aragut
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD Candidate at Edinburgh Law School. My research examines the taxonomy of non-pecuniary losses in English law with a particular focus on how this compares to the idea of 'préjudices morales' in French law. I am interested in taxonomy, comparative law, tort law, and private law broadly construed. Prior to my PhD I earned my first degree in Legal and Social Sciences from the University of Chile, and then completed an LLM in European and Comparative Private Law at the University of Edinburgh. I have been visiting and exchange student at the University of Oxford, Université de Strasbourg, Universität Heidelberg, and Humboldt-Universität zu Berlin. 
