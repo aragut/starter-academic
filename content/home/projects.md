@@ -25,28 +25,28 @@ subtitle = "Present Collaborations"
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Chilean Network of Comparative Law"
-  #   tag = "Comparative Law"
-  # 
-  # [[content.filter_button]]
-  #   name = "Observatory of rulings of the Supreme Court"
-  #   tag = "Observatory"
-  # 
-  # [[content.filter_button]]
-  #   name = "Translating the Restatement (Third) of the Law of Torts"
-  #   tag = "restatement"
+  [[content.filter_button]]
+    name = "Chilean Network of Comparative Law"
+    tag = "Comparative Law"
+
+  [[content.filter_button]]
+    name = "Observatory of rulings of the Supreme Court"
+    tag = "Observatory"
+
+  [[content.filter_button]]
+    name = "Translating the Restatement (Third) of the Law of Torts"
+    tag = "restatement"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
