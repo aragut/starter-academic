@@ -31,4 +31,3 @@ If you are using the social sharing buttons on my website then the privacy polic
 
 •	[Instagram](https://www.instagram.com)
 
-•	[Weibo](https://www.weibo.com)
