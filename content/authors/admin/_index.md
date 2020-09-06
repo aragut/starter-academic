@@ -53,10 +53,13 @@ social:
   link: https://twitter.com/ARaymondova
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=f6Wfi-EAAAAJ&hl=es#
-- icon: github
+  link: https://scholar.google.com/citations?user=f6Wfi-EAAAAJ&hl
+# - icon: github
+#   icon_pack: fab
+#  link: https://github.com/aragut
+- icon: linkedin-in
   icon_pack: fab
-  link: https://github.com/aragut
+  link: https://www.linkedin.com/in/arantxa-guti%C3%A9rrez-raymondova-86930934/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
