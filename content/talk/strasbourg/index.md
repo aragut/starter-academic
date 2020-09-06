@@ -3,7 +3,7 @@ abstract: Cette présentation explore comment les définitions négatives des no
 address:
   city: Université de Strasbourg
   country: France
-  postcode: 3000
+  postcode: 67000 
   region: 
   street: 
 all_day: false

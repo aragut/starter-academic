@@ -1,15 +1,34 @@
 ---
-title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
-draft: true
-share: false
 commentable: false
+date: "2020-09-06T00:00:00+01:00"
+draft: true
 editable: false
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+share: false
+title: Privacy Policy
 ---
+There are several places on this website that requires you to identify yourself:
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+## Contact
+
+By filling out the contact form I get your name, email address and your text. I will delete all mail sent in this way after 12 months. Your contact details will not be shared with third parties without your expressed concern. 
+
+## Google Analytics
+
+The only personal information collected while you visit this site is non-identifying information, such as browser type and operating system. This information is collected by [Google Analytics](https://analytics.google.com/) for measuring visitor traffic to this site.
+
+For each visitor to reach the site, Google Analytics collects the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the site, page access times and referring website address. This information is presented to me as aggregated reports.
+
+## Social sharing
+
+If you are using the social sharing buttons on my website then the privacy policy of those websites apply:
+
+•	[Twitter](https://twitter.com/)
+
+•	[Facebook](https://www.facebook.com/)
+
+•	[Instagram](https://www.instagram.com)
+
+•	[Weibo](https://www.weibo.com)
