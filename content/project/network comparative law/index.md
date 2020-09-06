@@ -1,6 +1,6 @@
 ---
 date: "2020-08-27T00:00:00Z"
-external_link: ""
+external_link: "http://redchilenadederechocomparado.cl/index.html"
 image:
   caption: 
   focal_point: Smart
