@@ -24,6 +24,7 @@ interests:
 - Comparative law
 - Private law theory
 - Tort law
+- Medical negligence
 - Contract law
 - Environmental law
 - Taxonomy and Terminology

@@ -14,6 +14,14 @@ subtitle = "Common European Framework of Reference for Languages"
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+#https://openmoji.org/library/#search=france to download images
+
+[[feature]]
+  icon = "unitedkingdom"
+  icon_pack = "custom"
+  name = "English"
+  description = "Full professional proficiency (C2)"
+
 [[feature]]
   icon = "chile"
   icon_pack = "custom"
@@ -30,25 +38,25 @@ subtitle = "Common European Framework of Reference for Languages"
   icon = "germany"
   icon_pack = "custom"
   name = "German"
-  description = "C1"  
+  description = "Advanced (C1)"  
   
 [[feature]]
   icon = "france"
   icon_pack = "custom"
   name = "French"
-  description = "C1"
+  description = "Advanced (C1)"
   
 [[feature]]
   icon = "russia"
   icon_pack = "custom"
   name = "Russian"
-  description = "B1"
+  description = "Intermediate (B1)"
 
 [[feature]]
   icon = "egypt"
   icon_pack = "custom"
   name = "Arabic"
-  description = "A2"
+  description = "Elementary (A2)"
   
 [[feature]]
   icon = "classical"
