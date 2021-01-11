@@ -1,6 +1,6 @@
 ---
 date: "2020-09-01T00:00:00Z"
-external_link: ""
+external_link: "www.proyectovigia.cl"
 image:
   caption: 
   focal_point: Smart
@@ -8,13 +8,13 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/ARaymondova
-summary: I have joined a project to review all current rulings of the Chilean Supreme dealing with private law matters. This will achieve more transparency and accountability and facilitate the task of accessing the most relevant cases. 
+  url: https://www.twitter.com/@ProyectoVigia
+summary: I have joined a project to review all current rulings of the Chilean Supreme dealing with private law matters. This will achieve more transparency and accountability and facilitate the task of accessing the most relevant cases and identifying trends. 
 tags:
 - supreme court
 - private law
 - transparency
-title: Observatory of the rulings of the Chilean Supreme Court
+title: Proyecto Vigía - Observatory of the rulings of the Chilean Supreme Court
 url_code: ""
 url_pdf: ""
 url_slides: ""

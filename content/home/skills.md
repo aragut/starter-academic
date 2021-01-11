@@ -52,10 +52,16 @@ subtitle = "Common European Framework of Reference for Languages"
   name = "Russian"
   description = "Intermediate (B1)"
 
+# [[feature]]
+#   icon = "egypt"
+#   icon_pack = "custom"
+#   name = "Arabic"
+#   description = "Elementary (A2)"
+  
 [[feature]]
-  icon = "egypt"
+  icon = "italy"
   icon_pack = "custom"
-  name = "Arabic"
+  name = "Italian"
   description = "Elementary (A2)"
   
 [[feature]]
