@@ -1,5 +1,5 @@
 ---
-abstract: On December 16, 2020 we oficially launched the Chilean Network of Comparative Law. We were extremely lucky to have Professor Hans-W. Micklitz delivering the innaugural adress. His presentation 'Comparative law between theory and practice - how to bridge the gap', sparked an interesting debate and is available online by clicking the link below. 
+abstract: On December 16, 2020 we oficially launched the Chilean Network of Comparative Law. We were extremely lucky to have Professor Hans-W. Micklitz delivering the innaugural address. His presentation 'Comparative law between theory and practice - how to bridge the gap', sparked an interesting debate and is available online by clicking the link below. 
 address:
   city: 
   country: 
