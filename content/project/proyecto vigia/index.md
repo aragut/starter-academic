@@ -1,6 +1,6 @@
 ---
 date: "2020-09-01T00:00:00Z"
-external_link: "www.proyectovigia.cl"
+external_link: ""
 image:
   caption: 
   focal_point: Smart
@@ -8,7 +8,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://www.twitter.com/@ProyectoVigia
+  url: https://www.twitter.com/ProyectoVigia
+- icon: link
+  icon_pack: fas
+  name: Website
+  url: https://proyectovigia.cl/
 summary: I have joined a project to review all current rulings of the Chilean Supreme dealing with private law matters. This will achieve more transparency and accountability and facilitate the task of accessing the most relevant cases and identifying trends. 
 tags:
 - supreme court

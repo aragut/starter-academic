@@ -1,6 +1,6 @@
 ---
 date: "2020-08-27T00:00:00Z"
-external_link: "http://redchilenadederechocomparado.cl/index.html"
+external_link: ""
 image:
   caption: 
   focal_point: Smart
@@ -8,7 +8,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/ARaymondova
+  url: https://twitter.com/RChDerComparado
+- icon: link
+  icon_pack: fas
+  name: Website
+  url: https://www.redchilenadederechocomparado.cl/
 summary: I am part of the founding members of the Chilean Network of Comparative Law, acting as Director of the Private law section.
 tags:
 - comparative law
