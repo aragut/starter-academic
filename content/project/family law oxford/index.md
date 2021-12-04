@@ -1,5 +1,5 @@
 ---
-date: "2020-08-27T00:00:00Z"
+date: "2021-09-01T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -13,19 +13,20 @@ links:
   icon_pack: fas
   name: Website
   url: https://www.law.ox.ac.uk/research/european-research-psychological-violence-and-family-court-experiences
-summary: I am a postdoctoral researcher of the project The Family Justice Response to Allegations of Domestic Abuse A Comparative European Analysis.
+summary: I am a postdoctoral researcher of the project The Family Justice Response to Allegations of Domestic Abuse - A Comparative European Analysis.
 tags:
 - comparative law
 - private law
-title: Chilean Network of Comparative Law
+title: The Family Justice Response to Allegations of Domestic Abuse - A Comparative European Analysis
 url_code: ""
 url_pdf: ""
 url_video: ""
 ---
-## Chilean Network of Comparative Law
+## Family Justice
 
 
-I joined the efforts to consolidate the newly established Chilean Network for Comparative Law, where I will act as Director of the Private Law section. Among our objectives are firstly, to create and strenghten the networks among academics and researchers interested in comparative law. A second aim of this network is to foster outreach activities to promote the study and interest in comparative law among the wider legal community, such as practitioners and judges. 
+I am a postdoctoral researcher of the project The Family Justice Response to Allegations of Domestic Abuse A Comparative European Analysis, led by Professor Shazia Choudhry.
 
+The project aims to investigate key themes in the implementation of family law within the context of domestic abuse allegations and State obligations towards people who make allegations of domestic abuse. It involves empirical research across four stakeholder groups (survivors of domestic abuse, lawyers, judges and magistrates, and other court professionals who provide information on the child/family to the court). Seven countries have been selected based on the prevalence of domestic abuse, availability of the relevant data, academic and civil society engagement with the issue, ratification of the Istanbul Convention, among other reasons. These are: England and Wales, France, French speaking Switzerland, Spain, Italy, Bosnia & Herzegovina, and Denmark. 
 
 
