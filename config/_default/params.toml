@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "a.gutierrez@ed.ac.uk"
+email = "arantxa.gutierrez@law.ox.ac.uk"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Old College, South Bridge", city = "Edinburgh", region = "", postcode = "EH8 9YL", country = "United Kingdom", country_code = ""}
+address = {street = "Manor Road building", city = "Oxford", region = "", postcode = "OX1 3UQ", country = "United Kingdom", country_code = ""}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "55.947544", longitude = "-3.186609"}
+coordinates = {latitude = "51.75742025452733", longitude = "-1.2466891000000002"}
 
 # Directions for visitors to locate you.
 directions = ""

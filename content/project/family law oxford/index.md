@@ -8,12 +8,12 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/RChDerComparado
+  url: 
 - icon: link
   icon_pack: fas
   name: Website
-  url: https://www.redchilenadederechocomparado.cl/
-summary: I am part of the founding members of the Chilean Network of Comparative Law, acting as Director of the Private law section.
+  url: https://www.law.ox.ac.uk/research/european-research-psychological-violence-and-family-court-experiences
+summary: I am a postdoctoral researcher of the project The Family Justice Response to Allegations of Domestic Abuse A Comparative European Analysis.
 tags:
 - comparative law
 - private law
