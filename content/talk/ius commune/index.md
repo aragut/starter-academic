@@ -8,7 +8,7 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2018-12-13T10:00:00Z"
+date: "2021-11-25T10:00:00Z"
 event: Talk
 event_url: 
 featured: false
@@ -23,7 +23,7 @@ links:
 location:  Zoom
 math: true
 projects:
-publishDate: "2021-11-25T00:00:00Z"
+publishDate: "2021-11-26T00:00:00Z"
 summary: 
 tags:
 - comparative legal history
