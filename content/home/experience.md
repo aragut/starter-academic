@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Postdoctoral Research Fellow"
   company = "University of Oxford"
-  company_url = ""
+  company_url = "https://www.law.ox.ac.uk/people/arantxa-gutierrez"
   location = "England"
   date_start = "2021-09-01"
   date_end = ""
