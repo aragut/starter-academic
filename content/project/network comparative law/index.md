@@ -25,7 +25,7 @@ url_video: ""
 ## Chilean Network of Comparative Law
 
 
-I joined the efforts to consolidate the newly established Chilean Network for Comparative Law, where I will act as Director of the Private Law section. Among our objectives are firstly, to create and strenghten the networks among academics and researchers interested in comparative law. A second aim of this network is to foster outreach activities to promote the study and interest in comparative law among the wider legal community, such as practitioners and judges. 
+I joined the efforts to consolidate the newly established Chilean Network for Comparative Law, where I act as Director of the Private Law section. Among our objectives are firstly, to create and strengthen the networks among academics and researchers interested in comparative law. A second aim of this network is to foster outreach activities to promote the study and interest in comparative law among the wider legal community, such as practitioners and judges. We are currently working on the first Handbook of Comparative law to be produced in Spanish by leading Latin American academics. 
 
 
 

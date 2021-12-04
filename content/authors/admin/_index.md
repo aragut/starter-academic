@@ -14,11 +14,11 @@ role: PhD in Law
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Edinburgh
+- name: University of Oxford
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I recently finished my PhD in Law at Edinburgh Law School. I am interested in taxonomy, comparative law, tort law, private law theory, and legal philosphy.
+bio: I am a Postdoctoral Research Fellow at the University of Oxford. I am interested in comparative law, taxonomy, private law theory, taxonomy, and family law. 
 
 interests:
 - Comparative law
@@ -27,13 +27,13 @@ interests:
 - Tort law
 - Medical negligence
 - Contract law
-- Environmental law
+- Family law
 
 education:
   courses:
   - course: PhD in Law 
     institution: The University of Edinburgh 
-    year: (2016-2020)
+    year: (2016-2021)
   - course: LLM in Comparative and European Private Law
     institution: The University of Edinburgh
     year: (2015-2016)
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I recently finished my PhD in Law at the Edinburgh Law School. My research examines the taxonomy of non-pecuniary losses in English law with a particular focus on how this compares to the idea of 'préjudice moral' in French law. I am interested in taxonomy, comparative law, tort law, and private law broadly construed. Prior to my PhD I earned my first degree in Legal and Social Sciences from the University of Chile, and then completed an LLM in European and Comparative Private Law at the University of Edinburgh. I have been visiting and exchange student at the University of Oxford, Université de Strasbourg, Universität Heidelberg, and Humboldt-Universität zu Berlin. 
+Currently I am a Postdoctoral Research Fellow at the University of Oxford. I completed my PhD in Law at the University of Edinburgh. My doctoral research examined the taxonomy of non-pecuniary losses in English law with a particular focus on how this compares to the idea of 'préjudice moral' in French law. I am interested in taxonomy, comparative law, tort law, family law, and private law broadly construed. Prior to my PhD I earned my first degree in Legal and Social Sciences from the University of Chile, and then completed an LLM in European and Comparative Private Law at the University of Edinburgh. I have been visiting and exchange student at Université de Strasbourg, Universität Heidelberg, and Humboldt-Universität zu Berlin. 
