@@ -25,8 +25,8 @@ url_video: ""
 ## Family Justice
 
 
-I am a postdoctoral researcher of the project The Family Justice Response to Allegations of Domestic Abuse A Comparative European Analysis, led by Professor Shazia Choudhry.
+I was a postdoctoral researcher of the project The Family Justice Response to Allegations of Domestic Abuse A Comparative European Analysis, led by Professor Shazia Choudhry.
 
-The project aims to investigate key themes in the implementation of family law within the context of domestic abuse allegations and State obligations towards people who make allegations of domestic abuse. It involves empirical research across four stakeholder groups (survivors of domestic abuse, lawyers, judges and magistrates, and other court professionals who provide information on the child/family to the court). Seven countries have been selected based on the prevalence of domestic abuse, availability of the relevant data, academic and civil society engagement with the issue, ratification of the Istanbul Convention, among other reasons. These are: England and Wales, France, French speaking Switzerland, Spain, Italy, Bosnia & Herzegovina, and Denmark. 
+The project aimed to investigate key themes in the implementation of family law within the context of domestic abuse allegations and State obligations towards people who make allegations of domestic abuse. It involved empirical research across four stakeholder groups (survivors of domestic abuse, lawyers, judges and magistrates, and other court professionals who provide information on the child/family to the court). Seven countries were selected based on the prevalence of domestic abuse, availability of the relevant data, academic and civil society engagement with the issue, ratification of the Istanbul Convention, among other reasons. These were: England and Wales, France, French speaking Switzerland, Spain, Italy, Bosnia & Herzegovina, and Denmark. 
 
 

@@ -13,7 +13,7 @@ links:
   icon_pack: fas
   name: Website
   url: https://proyectovigia.cl/
-summary: I have joined a project that reviews and reports all current rulings of the Chilean Supreme dealing with private law matters. This will achieve more transparency and accountability and facilitate the task of accessing the most relevant cases and identifying emerging trends. 
+summary: I was a member of a project that reviewed and reported all recent cases handed by the Chilean Supreme which dealt with private law issues. This resulted in several reports identifying emerging trends and a course delivered at the University of Chile.
 tags:
 - supreme court
 - private law
@@ -27,4 +27,4 @@ url_video: ""
 ## Observatory of the rulings of the Chilean Supreme Court
 
 
-This project is following the weekly rulings made by the Chilean Supreme Court, filtering and analysing the most important ones so as to highlight emerging trends, and critically assess the most relevant shifts in doctrinal issues of Chilean private law. I am a collaborator of this initiative and as such I review and report a number of the court's rulings every six weeks.
+This project followed the cases decided by the Chilean Supreme Court on a weekly basis and different academics took turns to analyse emerging trends in the area of Chilean private law. For over two years I was a regular contributor to this initiative and as such I reviewed and reported a number of the court's decisions.
