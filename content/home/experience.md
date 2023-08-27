@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Lecturer in Private law"
+  company = "University of Glasgow"
+  company_url = "https://www.gla.ac.uk/schools/law/staff/arantxagutierrez/"
+  location = "Scotland"
+  date_start = "2023-02-01"
+  date_end = ""
+  description = ""
+  
+[[experience]]
   title = "Early Career Fellow in the Law of Obligations"
   company = "University of Edinburgh"
   company_url = ""
@@ -32,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://www.law.ox.ac.uk/people/arantxa-gutierrez"
   location = "England"
   date_start = "2021-09-01"
-  date_end = ""
+  date_end = "2022-08-31"
   description = ""
 
 [[experience]]
