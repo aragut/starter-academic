@@ -10,24 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Law
+role: Lecturer in Private law
 
 # Organizations/Affiliations
 organizations:
-- name: University of Oxford
+- name: University of Glasgow
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Research Fellow at the University of Oxford. I am interested in comparative law, taxonomy, private law theory, taxonomy, and family law. 
+bio: I am a Lecturer in Private law at the University of Glasgow. I am interested in tort law, comparative law, contract law, and taxonomy.
 
 interests:
 - Comparative law
-- Private law theory and philosophy
-- Taxonomy and Terminology
 - Tort law
-- Medical negligence
+- Taxonomy and Terminology
 - Contract law
-- Family law
 
 education:
   courses:
@@ -48,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:arantxa.gutierrez@law.ox.ac.uk".
+  link: '#contact'  # For a direct email link, use "mailto:arantxa.gutierrez@glasgow.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ARaymondova
@@ -77,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Research Fellow at the University of Oxford. I completed my PhD in Law at the University of Edinburgh. My doctoral research examined the taxonomy of non-pecuniary losses in English law with a particular focus on how this compares to the idea of 'préjudice moral' in French law. I am interested in taxonomy, comparative law, tort law, family law, and private law broadly construed. Prior to my PhD I earned my first degree in Legal and Social Sciences from the University of Chile, and then completed an LLM in European and Comparative Private Law at the University of Edinburgh. I have been visiting and exchange student at Université de Strasbourg, Universität Heidelberg, and Humboldt-Universität zu Berlin. 
+I am a Lecturer in Private law at the University of Glasgow where I teach the Law of Torts (Common law programme) and Comparative Tort law. My main areas of interest are legal taxonomy, tort law, contemporary approaches to comparative law and its methodology, and private law broadly construed. Prior to my current position I was an Early Career Fellow in the Law of Obligations at the University of Edinburgh (2022/23) and a Postdoctoral Research Fellow at the University of Oxford (2021/22). I completed my PhD at the University of Edinburgh. I earned my first degree in Legal and Social Sciences from the University of Chile, and then completed an LLM in European and Comparative Private Law at the University of Edinburgh. I have been visiting and exchange student at Université de Strasbourg, Universität Heidelberg, and Humboldt-Universität zu Berlin. 
